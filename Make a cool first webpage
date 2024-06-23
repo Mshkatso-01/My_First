@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <section class="plog">
+        <h1>Technology News</h1>
+        <article>
+            <h3>Using an LLM API As an Intelligent Virtual Assistant for Python Development</h3>
+            <p>With proper instruction, LLMs can be highly effective coding assistants. This step-by-step guide shows you how to generate a call to an external API using Python and the OpenAI API.
+
+            </p>
+        </article>
+        <article>
+            <h3>WordPress-powered Angular: JWT Authentication Using GraphQL</h3>
+            <p>Setting up authentication in an app with a disparate front end and back end is tricky. This tutorial proposes an innovative solution using JWT and GraphQL.</p>
+        </article>
+        <article>
+            <h3>Next.js Rendering Techniques: How to Optimize Page Speed</h3>
+            <p>Next.js is best known for server-side rendering, but these innovative strategies can help developers configure web apps for more speed, reduced server load, improved SEO, and much more.</p>
+        </article>
+        <article>
+            <h3>The Secret Behind Steady App Performance: Asynchronous JavaScript</h3>
+            <p>JavaScript’s default synchronous methods can freeze an application, scaring off end users. Here’s how you can leverage asynchronous JavaScript techniques to increase control over front-end responsiveness.
+
+            </p>
+        </article>
+    </section>
+  
+    
+    <h1>Software Engineering Courses: </h1>
+    <h2>Alx Courses</h2>
+    <img src="https://i.ibb.co/gTDZZT8/ALX-Logo-07.png" alt="ALX-logo">
+</body>
+</html>
