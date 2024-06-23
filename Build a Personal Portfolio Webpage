@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mishkat Suliman - Personal Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Mishkat Suliman</h1>
+        <p>Junior Frontend developer | interested in computational neuroscience and Web designing.
+        </p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#introduction">Home</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#project">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="introduction">
+        <h2>introduction</h2>
+        <p>Junior Frontend developer | interested in computational neuroscience and Web designing.
+        </p>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <article class="project">
+            <h3>Portfolio Project</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum temporibus ipsum quasi nemo, eligendi exercitationem! Ut praesentium non sapiente totam enim! Nulla, voluptatum. Nesciunt sunt dolores, a tempore porro distinctio.</p>
+            <a href="#" target="_blank">Live Demos</a>
+        </article>
+        <article class="project">
+            <h3>Flash Company</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus veniam, nemo eaque repellendus cupiditate, quidem a iste recusandae, dolores ipsum tenetur dolorem incidunt quae? Dignissimos veniam quae maxime cupiditate ex?</p>
+            <a href="#" target="_blank">Live Demos</a>
+        </article>
+        <article class="project">
+            <h3>Hala Oliesh</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt natus quod blanditiis necessitatibus temporibus reprehenderit a culpa nihil laudantium illo earum ipsum tempora, voluptas maxime ex quisquam nisi quis aut.</p>
+            <a href="#" target="_blank">Live Demos</a>
+        </article>
+    </section>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam quae nam dolore iure molestiae, ad qui at totam nihil officia facilis dolorum error voluptatem facere aliquam rerum, quidem excepturi fugiat.</p>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam, ab! Ratione, aspernatur recusandae repellat quas molestias dignissimos ipsum voluptas. Voluptate architecto facilis vero autem eligendi. Incidunt aperiam animi eum debitis.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <a href="mailto:your.email@example.com" target="_blank">EMAIL</a> <br>
+            <a href="" target="_blank">LinkdIn</a> <br>
+            <a href="" target="_blank">GitHUB</a>
+    </section>
+
+    <footer>
+        <p>Copy right &copy; 2024 Mishkat Suliman</p>
+
+
+    </footer>
+</body>
+</html>
