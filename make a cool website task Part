@@ -1,0 +1,60 @@
+(* PART ONE  *)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Base Index</title>
+</head>
+<body>
+    <a href="tweets.html"></a>
+    <header>
+        <ul>
+            <li><a href="base_index.html">Home</a></li>
+            <li><a href="tweets.html">Tweests</a></li>
+        </ul>
+    </header>
+    <main>
+        <article>
+            <h1>Tweets!</h1>
+            <h3>Writw your teets here as Alx teach you</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas dolorum, aliquid culpa alias aspernatur voluptates, repudiandae quod placeat provident saepe quaerat. Minima nam magni, non voluptas cumque aperiam quidem nisi!</p>
+        </article>
+        <aside>placeholder to add comment thread later</aside>
+    </main>
+    <footer>
+        Made by <Mishkat Suliman> - <a href="#" target="_blank">here</a>
+    </footer>
+</body>
+</html>
+
+(*PART TWO  *)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Base Index</title>
+</head>
+<body>
+    <a href="base_index.html"></a>
+    <header>
+        <ul>
+            <li><a href="base_index.html">Home</a></li>
+            <li><a href="tweets.html">Tweests</a></li>
+        </ul>
+    </header>
+    <main>
+        <article>
+            <h1>Tweets!</h1>
+            <h3>Writw your teets here as Alx teach you</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas dolorum, aliquid culpa alias aspernatur voluptates, repudiandae quod placeat provident saepe quaerat. Minima nam magni, non voluptas cumque aperiam quidem nisi!</p>
+        </article>
+        <aside>placeholder to add comment thread later</aside>
+    </main>
+    <footer>
+        Made by <Mishkat Suliman> - <a href="#" target="_blank">here</a>
+    </footer>
+</body>
+</html>
